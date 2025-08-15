@@ -2,4 +2,5 @@
 images
 images-no-text
 neural-nets-env
+remove_state.py
 *.zip
