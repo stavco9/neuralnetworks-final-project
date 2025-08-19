@@ -324,8 +324,8 @@ This work is documented in our comprehensive academic paper. If you use this cod
 
 | Author | Role | Contact |
 |--------|------|---------|
-| **Stav Cohen** | CNN Architecture, Image Processing, Evaluation | [stavco9@gmail.com](mailto:stavco9@gmail.com) |
-| **Efi Pecani** | Text Classification, Fusion Strategies, Optimization | [efipecani@gmail.com](mailto:efipecani@gmail.com) |
+| **Stav Cohen** | CNN Architecture, Image Processing, Evaluation | [stav.cohen](mailto:stav.cohen9@ost.runi.ac.il) |
+| **Efi Pecani** | Text Classification, Fusion Strategies, Optimization | [efraim.pecani](mailto:efraim.pecani@post.runi.ac.il) |
 
 *Computer Science M.Sc. Students*  
 *Reichman University, Israel*
