@@ -26,7 +26,7 @@ Social media memes combine visual and textual elements to convey complex message
 - **Comprehensive Evaluation**: Systematic comparison of 8 fusion strategies
 
 ### True Positives Examples
-| ![TP](results/comparison_tp_cnn_.png) |
+![TP](results/comparison_tp_cnn_.png)
 
 ## 🏗️ System Architecture
 
@@ -156,6 +156,7 @@ jupyter notebook notebooks/3_evaluation_multimodal.ipynb
 # Or use the script
 python scripts/evaluate_fusion.py --sample_size 1000 --strategies all
 ```
+![evaluation_preformance](results/grpah_preformance_f1.png)
 
 ### 4. Quick Inference Example
 ```python
