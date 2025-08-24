@@ -25,6 +25,9 @@ Social media memes combine visual and textual elements to convey complex message
 - **Novel Architecture**: F1-optimized text classifier with hierarchical attention
 - **Comprehensive Evaluation**: Systematic comparison of 8 fusion strategies
 
+### True Positives Examples
+| ![TP](results/comparison_tp_cnn_.png) |
+
 ## 🏗️ System Architecture
 
 ```
