@@ -232,10 +232,10 @@ def f1_loss(logits, targets, epsilon=1e-7):
 ## 📈 Performance Analysis
 
 ### CNN Training Dynamics
-![CNN Training](results/figures/Images_Train_Valid_Acc_New.png)
+![CNN Training](results/Images_Train_Valid_Acc_New.png)
 
 ### Fusion Strategy Comparison
-![Fusion Comparison](results/figures/Images_CNN_New.png)
+![Fusion Comparison](results/Images_CNN_New.png)
 
 ### Error Analysis Examples
 | False Positives | False Negatives |
